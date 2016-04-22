@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author 19344611-6
  */
-public class Trabajo_mantencion {
+public class Trabajo_mantencion {dfknsldfnws,dnflsdf
 
     /**
      * @param args the command line arguments
